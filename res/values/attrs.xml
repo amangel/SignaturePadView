@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SignaturePadView">
+        <attr name="backgroundColor" format="color"/>
+        <attr name="signatureColor" format="color"/>
+        <attr name="showUnderline" format="boolean"/>
+        <attr name="underlineColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="underlineLabel" format="string"/>
+        <attr name="underlineThickness" format="dimension"/>
+        <attr name="retainSignatureOnRotate" format="boolean"/>
+    </declare-styleable>
+</resources>
